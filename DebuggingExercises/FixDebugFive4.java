@@ -1,4 +1,4 @@
-// DebugFive4.java
+// FixDebugFive4.java
 // Outputs highest of four numbers
 import javax.swing.*;
 public class FixDebugFive4

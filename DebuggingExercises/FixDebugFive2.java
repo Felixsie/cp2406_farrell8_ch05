@@ -1,4 +1,4 @@
-// DebugFive2.java
+// FixDebugFive2.java
 // Decides if two numbers are evenly divisible
 import java.util.Scanner;
 public class FixDebugFive2

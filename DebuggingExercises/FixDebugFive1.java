@@ -1,4 +1,4 @@
-// DebugFive1
+// FixDebugFive1
 // Adds your lunch bill
 // Burger and hot dog are $2.59
 // Grilled cheese and fish are $1.99
